@@ -1,4 +1,84 @@
 import scrapy
+import re
+from tutorial.items import SaikrItem
+
+
+class SaikrSpider(scrapy.Spider):
+    name = "saikr"
+    start_urls = [
+        'https://www.saikr.com/vs/0/4/1?page=1',
+        'https://www.saikr.com/vs/0/4/1?page=2',
+        'https://www.saikr.com/vs/0/4/1?page=3',
+        'https://www.saikr.com/vs/0/4/1?page=4',
+        'https://www.saikr.com/vs/0/4/1?page=5',
+        'https://www.saikr.com/vs/0/4/1?page=6',
+        'https://www.saikr.com/vs/0/4/1?page=7',
+        'https://www.saikr.com/vs/0/4/1?page=8',
+        'https://www.saikr.com/vs/0/4/1?page=9',
+        'https://www.saikr.com/vs/0/4/1?page=10',
+    ]
+
+    def parse(self, response):
+        # 爬取一页
+        for url in response.css('h3.tit a::attr(href)').extract():
+            self.log('url = %s' % url)
+            yield scrapy.Request(url, callback=self.parse_url)
+
+    def parse_url(self, response):
+        def css_with_extract(query, response=response):
+            return response.css(query).extract_first().strip()
+
+        item = SaikrItem()
+        item['title'] = css_with_extract('div.sk-event4-1-detail-banner img::attr(alt)')
+        item['source_url'] = response.url
+        item['image_url'] = css_with_extract('div.sk-event4-1-detail-banner img::attr(src)')
+        com_url = response.css('div.sk-event-detail-nav div.fr')
+        if com_url.css('a[href^=http]').extract_first() is not None:
+            item['com_url'] = css_with_extract('a::attr(href)', com_url)
+        else:
+            item['com_url'] = ''
+
+        for sidebar in response.css('.sidebar-b-con'):
+            if css_with_extract('h3.title::text', sidebar) == '类型':
+                item['team_category'] = css_with_extract('span.title-desc::text', sidebar)
+
+            if css_with_extract('h3.title::text', sidebar) == '报名费':
+                item['charge'] = css_with_extract('span.title-desc::text', sidebar)
+
+            if css_with_extract('h3.title::text', sidebar) == '级别':
+                item['com_level'] = css_with_extract('span.title-desc::text', sidebar)
+
+            if css_with_extract('h3.title::text', sidebar) == '参赛对象':
+                item['com_object'] = css_with_extract('span.title-desc::text', sidebar)
+
+            if '报名时间' in css_with_extract('h3.title::text', sidebar):
+                timeStr = css_with_extract('div.info-content::text', sidebar)
+                timegroup = re.search('(\d.*? \d\d:\d\d).*?(2.*)', timeStr, re.M)
+                if timegroup is not None:
+                    item['signup_start_date'] = timegroup[1]
+                    item['signip_end_date'] = timegroup[2]
+
+            if '比赛时间' in css_with_extract('h3.title::text', sidebar):
+                timeStr = css_with_extract('div.info-content::text', sidebar)
+                timegroup = re.search('(\d.*? \d\d:\d\d).*?(2.*)', timeStr, re.M)
+                if timegroup is not None:
+                    item['com_start_date'] = timegroup[1]
+                    item['com_end_date'] = timegroup[2]
+
+            if css_with_extract('h3.title::text', sidebar) == '主办方':
+                li = sidebar.css('div.info-content::text').extract()
+                s = ''
+                for i in li:
+                    s = s + ' ' + i.strip()
+                item['com_orginaziton'] = s
+
+            if css_with_extract('h3.title::text', sidebar) == '竞赛类别':
+                str = ''
+                for span in sidebar.css('span::text').extract():
+                    str = str + ' ' + span.strip()
+                item['com_category'] = str
+
+        yield item
 
 
 class QuotesSpider(scrapy.Spider):
@@ -53,56 +133,4 @@ class AuthorSpider(scrapy.Spider):
             'name': extract_with_css('h3.author-title::text'),
             'birthdate': extract_with_css('.author-born-date::text'),
             'bio': extract_with_css('.author-description::text'),
-        }
-
-# 爬取赛氪上的资料
-
-
-class saikrSpider(scrapy.Spider):
-    name = 'saikr_contury'
-    start_urls = ['https://www.saikr.com/vs/0/4/1/']
-
-    # 爬取一页每条的数据
-    def parse(self, response):
-        for detail_url in response.css('div.event4-1-detail-box a::attr(href)').extract():
-            self.log('detail_url: %s' % detail_url)
-            yield scrapy.Request(detail_url, self.parser_detail)
-
-    def parser_detail(self, response):
-        # 工具
-        def extract_with_css(query, response=response):
-            return response.css(query).extract_first().strip()
-
-        l = response.css('span.title-desc::text').extract()
-
-        s = response.css('li.new-event4-1-info-item')
-
-        yield{
-            # 图片地址
-            'image_url': extract_with_css('div.sk-event4-1-detail-banner img::attr(src)'),
-            # 标题
-            'title': extract_with_css('div.sk-event4-1-detail-banner img::attr(alt)'),
-            # 内容
-            # 'content':extract_with_css('div.event4-1-detail-text-box')
-            # 发布者
-            'publisher': extract_with_css('div.event-user-list-box dd.item-desc::text'),
-            #
-            # 观看量
-            'watch': l[0].strip(),
-            # 种类
-            'team_category': l[1].strip(),
-            # 费用
-            'charge': l[2].strip(),
-            # 级别
-            'level': l[3].strip(),
-            # 参赛对象
-            'object': l[4].strip(),
-            # 举办者
-            'organizationer': extract_with_css('div.info-content::text', response=s[0]),
-            # 报名时间
-            'apply_time': extract_with_css('div.info-content::text', response=s[1]),
-            # 开始时间
-            'competitiontime': extract_with_css('div.info-content::text', response=s[2]),
-            # 比赛类别
-            'com_category': extract_with_css('div.info-content span::text', response=s[3]),
         }
