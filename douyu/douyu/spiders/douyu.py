@@ -6,6 +6,7 @@ from douyu.items import DouyuItem
 
 
 class DouyuSpider(scrapy.Spider):
+    # 斗鱼
     name = 'douyu'
     allowed_domains = ['douyucdn.cn', ]
 
