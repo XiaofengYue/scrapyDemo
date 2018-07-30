@@ -4,11 +4,70 @@
 #
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
+import pymysql
 
 
 class TutorialPipeline(object):
     def process_item(self, item, spider):
         return item
+
+
+class yangjialinPipeline(object):
+    def process_item(self, item, spider):
+        return item
+
+
+class SaikrMysqlPipeline(object):
+    saikr_name = 'saikr'
+    saikrInsert = '''
+        insert into saikr(title,image_url,team_category,com_url,source_url,charge,com_level,com_object,signup_start_date,signup_end_date,com_start_date,com_end_date,com_orginaziton,com_category)
+        values('{title}','{image_url}','{team_category}','{com_url}','{source_url}','{charge}','{com_level}','{com_object}','{signup_start_date}','{signup_end_date}','{com_start_date}','{com_end_date}','{com_orginaziton}','{com_category}')
+    '''
+
+    def __init__(self, settings):
+        self.settings = settings
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler.settings)
+
+    def open_spider(self, spider):
+        # 连接数据库
+        self.connect = pymysql.connect(
+            host=self.settings.get('MYSQL_HOST'),
+            port=self.settings.get('MYSQL_PORT'),
+            db=self.settings.get('MYSQL_DBNAME'),
+            user=self.settings.get('MYSQL_USER'),
+            passwd=self.settings.get('MYSQL_PASSWD'),
+            charset='utf8',
+            use_unicode=True
+        )
+        self.cursor = self.connect.cursor()
+        self.connect.autocommit(True)
+
+    def process_item(self, item, spider):
+        if spider.name == "saikr":
+            sqltext = self.saikrInsert.format(
+                title=pymysql.escape_string(item['title']),
+                image_url=pymysql.escape_string(item['image_url']),
+                team_category=pymysql.escape_string(item['team_category']),
+                com_url=pymysql.escape_string(item['com_url']),
+                source_url=pymysql.escape_string(item['source_url']),
+                charge=pymysql.escape_string(item['charge']),
+                com_level=pymysql.escape_string(item['com_level']),
+                com_object=pymysql.escape_string(item['com_object']),
+                signup_start_date=pymysql.escape_string(item['signup_start_date']),
+                signup_end_date=pymysql.escape_string(item['signup_end_date']),
+                com_start_date=pymysql.escape_string(item['com_start_date']),
+                com_end_date=pymysql.escape_string(item['com_end_date']),
+                com_orginaziton=pymysql.escape_string(item['com_orginaziton']),
+                com_category=pymysql.escape_string(item['com_category']))
+            self.cursor.execute(sqltext)
+        return item
+
+    def close_spider(self, spider):
+        self.cursor.close()
+        self.connect.close()
 
 
 class SaikrPipeline(object):
@@ -30,8 +89,8 @@ class SaikrPipeline(object):
             f.write('com_level: ' + com_levels + '\n')
             signup_start_dates = item['signup_start_date']
             f.write('signup_start_date: ' + signup_start_dates + '\n')
-            signip_end_dates = item['signip_end_date']
-            f.write('signip_end_date: ' + signip_end_dates + '\n')
+            signup_end_dates = item['signup_end_date']
+            f.write('signup_end_date: ' + signup_end_dates + '\n')
             com_start_dates = item['com_start_date']
             f.write('com_start_date: ' + com_start_dates + '\n')
             com_end_dates = item['com_end_date']

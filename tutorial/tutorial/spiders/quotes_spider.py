@@ -56,7 +56,7 @@ class SaikrSpider(scrapy.Spider):
                 timegroup = re.search('(\d.*? \d\d:\d\d).*?(2.*)', timeStr, re.M)
                 if timegroup is not None:
                     item['signup_start_date'] = timegroup[1]
-                    item['signip_end_date'] = timegroup[2]
+                    item['signup_end_date'] = timegroup[2]
 
             if '比赛时间' in css_with_extract('h3.title::text', sidebar):
                 timeStr = css_with_extract('div.info-content::text', sidebar)
