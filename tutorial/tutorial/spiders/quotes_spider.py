@@ -4,6 +4,7 @@ from tutorial.items import SaikrItem
 
 
 class SaikrSpider(scrapy.Spider):
+    # 赛氪
     name = "saikr"
     start_urls = [
         'https://www.saikr.com/vs/0/4/1?page=1',
