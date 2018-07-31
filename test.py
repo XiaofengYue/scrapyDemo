@@ -98,7 +98,7 @@ def getcookie():
 
 
 def qzone():
-    browser.get('https://user.qzone.qq.com/760712977')
+    browser.get('https://user.qzone.qq.com/')
     # 登录表单在页面的框架中，所以要切换到该框架
     browser.switch_to_frame('login_frame')
     browser.find_element_by_id('switcher_plogin').click()
