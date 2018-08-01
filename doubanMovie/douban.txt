@@ -1,0 +1,1736 @@
+rank   :No.107
+score  :8.8
+title  :风之谷 風の谷のナウシカ
+category   :动画奇幻冒险
+runtime    :117分钟
+year   :(1984)
+
+rank   :No.105
+score  :8.7
+title  :爱在黎明破晓前 Before Sunrise
+category   :剧情爱情
+runtime    :101分钟
+year   :(1995)
+
+rank   :No.102
+score  :9.2
+title  :摩登时代 Modern Times
+category   :剧情喜剧爱情
+runtime    :87 分钟
+year   :(1936)
+
+rank   :No.106
+score  :8.7
+title  :消失的爱人 Gone Girl
+category   :剧情悬疑惊悚犯罪
+runtime    :149分钟
+year   :(2014)
+
+rank   :No.101
+score  :8.9
+title  :穿条纹睡衣的男孩 The Boy in the Striped Pajamas
+category   :剧情战争
+runtime    :94 分钟
+year   :(2008)
+
+rank   :No.103
+score  :8.9
+title  :上帝之城 Cidade de Deus
+category   :剧情犯罪
+runtime    :130分钟
+year   :(2002)
+
+rank   :No.104
+score  :8.6
+title  :阿凡达 Avatar
+category   :动作科幻战争冒险官方网站:
+runtime    :162分钟
+year   :(2009)
+
+rank   :No.176
+score  :8.7
+title  :一次别离 جدایی نادر از سیمین
+category   :剧情家庭
+runtime    :123分钟
+year   :(2011)
+
+rank   :No.204
+score  :8.5
+title  :黑客帝国3：矩阵革命 The Matrix Revolutions
+category   :动作科幻
+runtime    :129 分钟
+year   :(2003)
+
+rank   :No.134
+score  :8.6
+title  :雨人 Rain Man
+category   :剧情
+runtime    :133分钟
+year   :(1988)
+
+rank   :No.205
+score  :8.3
+title  :源代码 Source Code
+category   :科幻悬疑惊悚
+runtime    :93分钟
+year   :(2011)
+
+rank   :No.203
+score  :8.5
+title  :小萝莉的猴神大叔 Bajrangi Bhaijaan
+category   :剧情喜剧动作
+runtime    :159分钟
+year   :(2015)
+
+rank   :No.135
+score  :8.5
+title  :黑天鹅 Black Swan
+category   :剧情惊悚
+runtime    :108分钟
+year   :(2010)
+
+rank   :No.23
+score  :9.2
+title  :乱世佳人 Gone with the Wind
+category   :剧情爱情历史战争
+runtime    :238分钟
+year   :(1939)
+
+rank   :No.206
+score  :8.7
+title  :碧海蓝天 Le grand bleu
+category   :剧情爱情
+runtime    :132分钟(法国)
+year   :(1988)
+
+rank   :No.208
+score  :8.6
+title  :终结者2：审判日 Terminator 2: Judgment Day
+category   :动作科幻
+runtime    :137分钟
+year   :(1991)
+
+rank   :No.24
+score  :8.9
+title  :当幸福来敲门 The Pursuit of Happyness
+category   :剧情家庭传记
+runtime    :117分钟
+year   :(2006)
+
+rank   :No.207
+score  :8.7
+title  :末路狂花 Thelma & Louise
+category   :剧情惊悚犯罪
+runtime    :130 分钟
+year   :(1991)
+
+rank   :No.25
+score  :8.9
+title  :怦然心动 Flipped
+category   :剧情喜剧爱情
+runtime    :90分钟
+year   :(2010)
+
+rank   :No.22
+score  :9.1
+title  :无间道 無間道
+category   :剧情悬疑犯罪
+runtime    :101分钟
+year   :(2002)
+
+rank   :No.18
+score  :9.1
+title  :龙猫 となりのトトロ
+category   :动画奇幻冒险
+runtime    :86分钟
+year   :(1988)
+
+rank   :No.21
+score  :9.2
+title  :触不可及 Intouchables
+category   :剧情喜剧
+runtime    :112分钟
+year   :(2011)
+
+rank   :No.16
+score  :9.1
+title  :楚门的世界 The Truman Show
+category   :剧情科幻
+runtime    :103分钟
+year   :(1998)
+
+rank   :No.17
+score  :9.2
+title  :教父 The Godfather
+category   :剧情犯罪
+runtime    :175 分钟
+year   :(1972)
+
+rank   :No.19
+score  :9.2
+title  :星际穿越 Interstellar
+category   :剧情科幻冒险
+runtime    :169分钟
+year   :(2014)
+
+rank   :No.15
+score  :9.2
+title  :大话西游之大圣娶亲 西遊記大結局之仙履奇緣
+category   :喜剧爱情奇幻冒险
+runtime    :95分钟
+year   :(1995)
+
+rank   :No.13
+score  :9.2
+title  :海上钢琴师 La leggenda del pianista sull'oceano
+category   :剧情音乐
+runtime    :165分钟
+year   :(1998)
+
+rank   :No.14
+score  :9.2
+title  :放牛班的春天 Les choristes
+category   :剧情音乐
+runtime    :97 分钟
+year   :(2004)
+
+rank   :No.11
+score  :9.2
+title  :三傻大闹宝莱坞 3 Idiots
+category   :剧情喜剧爱情歌舞
+runtime    :171分钟(印度)
+year   :(2009)
+
+rank   :No.12
+score  :9.3
+title  :忠犬八公的故事 Hachi: A Dog's Tale
+category   :剧情
+runtime    :93分钟
+year   :(2009)
+
+rank   :No.7
+score  :9.3
+title  :千与千寻 千と千尋の神隠し
+category   :剧情动画奇幻
+runtime    :125分钟
+year   :(2001)
+
+rank   :No.8
+score  :9.4
+title  :辛德勒的名单 Schindler's List
+category   :剧情历史战争
+runtime    :195分钟
+year   :(1993)
+
+rank   :No.9
+score  :9.3
+title  :盗梦空间 Inception
+category   :剧情科幻悬疑冒险
+runtime    :148分钟
+year   :(2010)
+
+rank   :No.10
+score  :9.3
+title  :机器人总动员 WALL·E
+category   :爱情科幻动画冒险官方网站:
+runtime    :98分钟
+year   :(2008)
+
+rank   :No.6
+score  :9.3
+title  :泰坦尼克号 Titanic
+category   :剧情爱情灾难
+runtime    :194分钟
+year   :(1997)
+
+rank   :No.5
+score  :9.5
+title  :美丽人生 La vita è bella
+category   :剧情喜剧爱情战争
+runtime    :116分钟
+year   :(1997)
+
+rank   :No.3
+score  :9.4
+title  :这个杀手不太冷 Léon
+category   :剧情动作犯罪
+runtime    :110分钟(剧场版)
+year   :(1994)
+
+rank   :No.2
+score  :9.5
+title  :霸王别姬
+category   :剧情爱情同性
+runtime    :171 分钟
+year   :(1993)
+
+rank   :No.4
+score  :9.4
+title  :阿甘正传 Forrest Gump
+category   :剧情爱情
+runtime    :142 分钟
+year   :(1994)
+
+rank   :No.50
+score  :9.1
+title  :摔跤吧！爸爸 Dangal
+category   :剧情家庭传记运动
+runtime    :161分钟(印度)
+year   :(2016)
+
+rank   :No.1
+score  :9.6
+title  :肖申克的救赎 The Shawshank Redemption
+category   :剧情犯罪
+runtime    :142分钟
+year   :(1994)
+
+rank   :No.49
+score  :9.1
+title  :教父2 The Godfather: Part Ⅱ
+category   :剧情犯罪
+runtime    :202分钟
+year   :(1974)
+
+rank   :No.48
+score  :9.0
+title  :死亡诗社 Dead Poets Society
+category   :剧情
+runtime    :128 分钟
+year   :(1989)
+
+rank   :No.47
+score  :9.3
+title  :海豚湾 The Cove
+category   :纪录片官方网站:
+runtime    :92分钟
+year   :(2009)
+
+rank   :No.46
+score  :8.8
+title  :V字仇杀队 V for Vendetta
+category   :剧情动作科幻惊悚
+runtime    :132分钟
+year   :(2005)
+
+rank   :No.43
+score  :8.9
+title  :闻香识女人 Scent of a Woman
+category   :剧情
+runtime    :157 分钟
+year   :(1992)
+
+rank   :No.39
+score  :9.6
+title  :控方证人 Witness for the Prosecution
+category   :剧情悬疑犯罪
+runtime    :116分钟
+year   :(1957)
+
+rank   :No.38
+score  :8.9
+title  :罗马假日 Roman Holiday
+category   :剧情喜剧爱情
+runtime    :118 分钟
+year   :(1953)
+
+rank   :No.44
+score  :8.9
+title  :哈尔的移动城堡 ハウルの動く城
+category   :动画奇幻冒险
+runtime    :119分钟
+year   :(2004)
+
+rank   :No.40
+score  :9.1
+title  :窃听风暴 Das Leben der Anderen
+category   :剧情悬疑
+runtime    :137分钟
+year   :(2006)
+
+rank   :No.42
+score  :9.0
+title  :飞越疯人院 One Flew Over the Cuckoo's Nest
+category   :剧情
+runtime    :133分钟
+year   :(1975)
+
+rank   :No.45
+score  :9.2
+title  :辩护人 변호인
+category   :剧情官方网站:
+runtime    :127分钟
+year   :(2013)
+
+rank   :No.36
+score  :8.9
+title  :大话西游之月光宝盒 西遊記第壹佰零壹回之月光寶盒
+category   :喜剧爱情奇幻冒险
+runtime    :87分钟
+year   :(1995)
+
+rank   :No.35
+score  :9.0
+title  :天空之城 天空の城ラピュタ
+category   :动画奇幻冒险
+runtime    :125分钟
+year   :(1986)
+
+rank   :No.37
+score  :8.9
+title  :飞屋环游记 Up
+category   :剧情喜剧动画冒险
+runtime    :96分钟
+year   :(2009)
+
+rank   :No.33
+score  :9.0
+title  :搏击俱乐部 Fight Club
+category   :剧情动作悬疑惊悚
+runtime    :139 分钟
+year   :(1999)
+
+rank   :No.41
+score  :9.1
+title  :两杆大烟枪 Lock, Stock and Two Smoking Barrels
+category   :剧情喜剧犯罪
+runtime    :107分钟
+year   :(1998)
+
+rank   :No.34
+score  :9.1
+title  :指环王3：王者无敌 The Lord of the Rings: The Return of the King
+category   :剧情动作奇幻冒险官方网站:
+runtime    :201分钟
+year   :(2003)
+
+rank   :No.32
+score  :9.1
+title  :活着
+category   :剧情家庭历史
+runtime    :132分钟
+year   :(1994)
+
+rank   :No.31
+score  :9.1
+title  :疯狂动物城 Zootopia
+category   :喜剧动画冒险
+runtime    :109分钟(中国大陆)
+year   :(2016)
+
+rank   :No.29
+score  :9.2
+title  :鬼子来了
+category   :剧情历史战争
+runtime    :139分钟
+year   :(2000)
+
+rank   :No.27
+score  :9.4
+title  :十二怒汉 12 Angry Men
+category   :剧情
+runtime    :96 分钟
+year   :(1957)
+
+rank   :No.150
+score  :9.0
+title  :完美的世界 A Perfect World
+category   :剧情犯罪
+runtime    :138分钟
+year   :(1993)
+
+rank   :No.28
+score  :9.1
+title  :蝙蝠侠：黑暗骑士 The Dark Knight
+category   :剧情动作科幻惊悚犯罪官方网站:
+runtime    :152分钟
+year   :(2008)
+
+rank   :No.30
+score  :9.0
+title  :少年派的奇幻漂流 Life of Pi
+category   :剧情奇幻冒险官方网站:
+runtime    :127分钟
+year   :(2012)
+
+rank   :No.149
+score  :8.5
+title  :恋恋笔记本 The Notebook
+category   :剧情爱情
+runtime    :123分钟
+year   :(2004)
+
+rank   :No.145
+score  :8.8
+title  :萤火之森 蛍火の杜へ
+category   :剧情爱情动画奇幻官方网站:
+runtime    :45分钟
+year   :(2011)
+
+rank   :No.144
+score  :8.6
+title  :心迷宫
+category   :剧情悬疑犯罪
+runtime    :110分钟(中国大陆)
+year   :(2014)
+
+rank   :No.148
+score  :8.6
+title  :海边的曼彻斯特 Manchester by the Sea
+category   :剧情家庭
+runtime    :137分钟
+year   :(2016)
+
+rank   :No.147
+score  :8.8
+title  :荒蛮故事 Relatos salvajes
+category   :剧情喜剧犯罪
+runtime    :122分钟
+year   :(2014)
+
+rank   :No.146
+score  :8.5
+title  :傲慢与偏见 Pride & Prejudice
+category   :剧情爱情
+runtime    :129 分钟
+year   :(2005)
+
+rank   :No.141
+score  :8.6
+title  :英雄本色
+category   :动作犯罪
+runtime    :95分钟
+year   :(1986)
+
+rank   :No.139
+score  :8.7
+title  :燃情岁月 Legends of the Fall
+category   :剧情爱情家庭西部
+runtime    :133分钟
+year   :(1994)
+
+rank   :No.138
+score  :8.9
+title  :小森林 冬春篇 リトル・フォレスト 冬・春
+category   :剧情
+runtime    :120分钟
+year   :(2015)
+
+rank   :No.140
+score  :8.7
+title  :7号房的礼物 7번방의 선물
+category   :剧情喜剧家庭官方网站:
+runtime    :127分钟
+year   :(2013)
+
+rank   :No.142
+score  :8.9
+title  :虎口脱险 La grande vadrouille
+category   :喜剧战争
+runtime    :132分钟
+year   :(1966)
+
+rank   :No.143
+score  :8.7
+title  :哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2
+category   :剧情悬疑奇幻冒险
+runtime    :130分钟
+year   :(2011)
+
+rank   :No.137
+score  :8.9
+title  :卢旺达饭店 Hotel Rwanda
+category   :剧情历史战争官方网站:
+runtime    :121分钟
+year   :(2004)
+
+rank   :No.72
+score  :8.7
+title  :剪刀手爱德华 Edward Scissorhands
+category   :剧情爱情奇幻
+runtime    :105 分钟
+year   :(1990)
+
+rank   :No.73
+score  :8.7
+title  :让子弹飞
+category   :剧情喜剧动作西部
+runtime    :132分钟
+year   :(2010)
+
+rank   :No.71
+score  :8.8
+title  :黑客帝国 The Matrix
+category   :动作科幻
+runtime    :136分钟
+year   :(1999)
+
+rank   :No.136
+score  :8.7
+title  :疯狂原始人 The Croods
+category   :喜剧动画冒险
+runtime    :98分钟
+year   :(2013)
+
+rank   :No.75
+score  :8.7
+title  :看不见的客人 Contratiempo
+category   :剧情悬疑惊悚犯罪
+runtime    :106分钟
+year   :(2016)
+
+rank   :No.74
+score  :8.7
+title  :沉默的羔羊 The Silence of the Lambs
+category   :剧情惊悚犯罪
+runtime    :
+year   :(1991)
+
+rank   :No.70
+score  :8.9
+title  :拯救大兵瑞恩 Saving Private Ryan
+category   :剧情历史战争官方网站:
+runtime    :169分钟
+year   :(1998)
+
+rank   :No.68
+score  :8.8
+title  :西西里的美丽传说 Malèna
+category   :剧情情色战争
+runtime    :109 分钟
+year   :(2000)
+
+rank   :No.69
+score  :8.8
+title  :低俗小说 Pulp Fiction
+category   :剧情喜剧犯罪
+runtime    :154分钟
+year   :(1994)
+
+rank   :No.67
+score  :8.8
+title  :勇敢的心 Braveheart
+category   :剧情动作传记历史战争
+runtime    :177 分钟
+year   :(1995)
+
+rank   :No.26
+score  :9.1
+title  :天堂电影院 Nuovo Cinema Paradiso
+category   :剧情爱情
+runtime    :155分钟
+year   :(1988)
+
+rank   :No.65
+score  :8.8
+title  :本杰明·巴顿奇事 The Curious Case of Benjamin Button
+category   :剧情爱情奇幻
+runtime    :166分钟
+year   :(2008)
+
+rank   :No.66
+score  :8.9
+title  :音乐之声 The Sound of Music
+category   :剧情爱情歌舞传记
+runtime    :174分钟
+year   :(1965)
+
+rank   :No.64
+score  :8.8
+title  :致命魔术 The Prestige
+category   :剧情悬疑惊悚
+runtime    :130分钟
+year   :(2006)
+
+rank   :No.63
+score  :8.7
+title  :天使爱美丽 Le fabuleux destin d'Amélie Poulain
+category   :喜剧爱情
+runtime    :122分钟
+year   :(2001)
+
+rank   :No.62
+score  :8.9
+title  :被嫌弃的松子的一生 嫌われ松子の一生
+category   :剧情歌舞
+runtime    :130 分钟
+year   :(2006)
+
+rank   :No.247
+score  :8.6
+title  :大卫·戈尔的一生 The Life of David Gale
+category   :剧情悬疑犯罪
+runtime    :130 分钟
+year   :(2003)
+
+rank   :No.248
+score  :8.7
+title  :千钧一发 Gattaca
+category   :剧情科幻惊悚
+runtime    :106分钟
+year   :(1997)
+
+rank   :No.249
+score  :8.3
+title  :蓝色大门 藍色大門
+category   :剧情爱情同性官方网站:
+runtime    :85分钟
+year   :(2002)
+
+rank   :No.244
+score  :8.6
+title  :上帝也疯狂 The Gods Must Be Crazy
+category   :喜剧
+runtime    :109 分钟
+year   :(1980)
+
+rank   :No.243
+score  :9.0
+title  :我爱你 그대를 사랑합니다
+category   :剧情爱情官方网站:
+runtime    :118分钟
+year   :(2011)
+
+rank   :No.245
+score  :8.5
+title  :荒岛余生 Cast Away
+category   :剧情冒险
+runtime    :143分钟
+year   :(2000)
+
+rank   :No.246
+score  :8.5
+title  :黑鹰坠落 Black Hawk Down
+category   :动作历史战争官方网站:
+runtime    :144分钟
+year   :(2001)
+
+rank   :No.241
+score  :8.5
+title  :遗愿清单 The Bucket List
+category   :剧情喜剧冒险
+runtime    :97 分钟
+year   :(2007)
+
+rank   :No.250
+score  :9.0
+title  :爱·回家 집으로...
+category   :剧情家庭官方网站:
+runtime    :80分钟
+year   :(2002)
+
+rank   :No.242
+score  :8.6
+title  :枪火 鎗火
+category   :剧情动作犯罪
+runtime    :84分钟(香港)
+year   :(1999)
+
+rank   :No.240
+score  :8.3
+title  :穆赫兰道 Mulholland Dr.
+category   :剧情悬疑惊悚
+runtime    :147分钟
+year   :(2001)
+
+rank   :No.239
+score  :8.6
+title  :叫我第一名 Front of the Class
+category   :剧情传记
+runtime    :95分钟
+year   :(2008)
+
+rank   :No.237
+score  :8.9
+title  :勇士 Warrior
+category   :剧情家庭运动官方网站:
+runtime    :140分钟
+year   :(2011)
+
+rank   :No.233
+score  :8.6
+title  :海街日记 海街diary
+category   :剧情家庭官方网站:
+runtime    :127分钟
+year   :(2015)
+
+rank   :No.235
+score  :8.5
+title  :血钻 Blood Diamond
+category   :剧情惊悚冒险
+runtime    :143 分钟
+year   :(2006)
+
+rank   :No.238
+score  :8.8
+title  :聚焦 Spotlight
+category   :剧情传记官方网站:
+runtime    :128分钟
+year   :(2015)
+
+rank   :No.99
+score  :8.9
+title  :一一
+category   :剧情爱情家庭
+runtime    :173分钟
+year   :(2000)
+
+rank   :No.97
+score  :8.7
+title  :告白
+category   :剧情惊悚官方网站:
+runtime    :106分钟
+year   :(2010)
+
+rank   :No.100
+score  :8.8
+title  :阳光姐妹淘 써니
+category   :剧情喜剧
+runtime    :124分钟
+year   :(2011)
+
+rank   :No.94
+score  :8.7
+title  :断背山 Brokeback Mountain
+category   :剧情爱情同性家庭官方网站:
+runtime    :134分钟
+year   :(2005)
+
+rank   :No.96
+score  :8.8
+title  :甜蜜蜜
+category   :剧情爱情
+runtime    :118分钟(中国大陆)
+year   :(1996)
+
+rank   :No.98
+score  :8.6
+title  :加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl
+category   :动作奇幻冒险
+runtime    :143 分钟
+year   :(2003)
+
+rank   :No.234
+score  :8.6
+title  :燕尾蝶 スワロウテイル
+category   :剧情犯罪
+runtime    :148分钟
+year   :(1996)
+
+rank   :No.236
+score  :8.3
+title  :国王的演讲 The King's Speech
+category   :剧情传记历史
+runtime    :118分钟
+year   :(2010)
+
+rank   :No.95
+score  :8.7
+title  :射雕英雄传之东成西就 射鵰英雄傳之東成西就
+category   :喜剧古装
+runtime    :113分钟(香港)
+year   :(1993)
+
+rank   :No.92
+score  :8.7
+title  :致命ID Identity
+category   :剧情悬疑惊悚
+runtime    :90分钟
+year   :(2003)
+
+rank   :No.93
+score  :8.7
+title  :大鱼 Big Fish
+category   :剧情家庭奇幻冒险
+runtime    :125 分钟
+year   :(2003)
+
+rank   :No.91
+score  :9.0
+title  :狩猎 Jagten
+category   :剧情
+runtime    :115分钟
+year   :(2012)
+
+rank   :No.90
+score  :8.8
+title  :猫鼠游戏 Catch Me If You Can
+category   :剧情传记犯罪
+runtime    :141 分钟
+year   :(2002)
+
+rank   :No.89
+score  :8.7
+title  :重庆森林 重慶森林
+category   :剧情爱情
+runtime    :102分钟
+year   :(1994)
+
+rank   :No.86
+score  :8.8
+title  :哈利·波特与魔法石 Harry Potter and the Sorcerer's Stone
+category   :奇幻冒险官方网站:
+runtime    :152分钟
+year   :(2001)
+
+rank   :No.133
+score  :8.5
+title  :记忆碎片 Memento
+category   :剧情悬疑惊悚犯罪
+runtime    :113分钟
+year   :(2000)
+
+rank   :No.87
+score  :8.8
+title  :布达佩斯大饭店 The Grand Budapest Hotel
+category   :剧情喜剧冒险官方网站:
+runtime    :99分钟
+year   :(2014)
+
+rank   :No.88
+score  :8.7
+title  :禁闭岛 Shutter Island
+category   :剧情悬疑惊悚
+runtime    :138 分钟
+year   :(2010)
+
+rank   :No.128
+score  :8.7
+title  :谍影重重3 The Bourne Ultimatum
+category   :动作悬疑惊悚
+runtime    :115分钟
+year   :(2007)
+
+rank   :No.130
+score  :8.6
+title  :怪兽电力公司 Monsters, Inc.
+category   :喜剧动画儿童奇幻冒险官方网站:
+runtime    :92 分钟
+year   :(2001)
+
+rank   :No.132
+score  :9.0
+title  :海洋 Océans
+category   :纪录片官方网站:
+runtime    :104分钟(法国)
+year   :(2009)
+
+rank   :No.126
+score  :8.5
+title  :贫民窟的百万富翁 Slumdog Millionaire
+category   :剧情爱情官方网站:
+runtime    :120 分钟
+year   :(2008)
+
+rank   :No.61
+score  :8.7
+title  :七宗罪 Se7en
+category   :剧情悬疑惊悚犯罪
+runtime    :127分钟
+year   :(1995)
+
+rank   :No.129
+score  :8.5
+title  :真爱至上 Love Actually
+category   :剧情喜剧爱情官方网站:
+runtime    :135 分钟
+year   :(2003)
+
+rank   :No.127
+score  :8.8
+title  :喜宴 囍宴
+category   :剧情喜剧爱情同性家庭
+runtime    :108分钟
+year   :(1993)
+
+rank   :No.131
+score  :8.6
+title  :东邪西毒 東邪西毒
+category   :剧情动作爱情武侠古装
+runtime    :100分钟
+year   :(1994)
+
+rank   :No.59
+score  :9.0
+title  :钢琴家 The Pianist
+category   :剧情音乐传记历史战争
+runtime    :150分钟
+year   :(2002)
+
+rank   :No.56
+score  :9.1
+title  :美国往事 Once Upon a Time in America
+category   :剧情犯罪官方网站:
+runtime    :229分钟(导演剪辑版)
+year   :(1984)
+
+rank   :No.57
+score  :8.9
+title  :狮子王 The Lion King
+category   :剧情动画歌舞家庭冒险
+runtime    :89 分钟
+year   :(1994)
+
+rank   :No.58
+score  :9.1
+title  :素媛 소원
+category   :剧情官方网站:
+runtime    :123分钟
+year   :(2013)
+
+rank   :No.55
+score  :8.8
+title  :情书 Love Letter
+category   :剧情爱情
+runtime    :117分钟
+year   :(1995)
+
+rank   :No.60
+score  :9.2
+title  :小鞋子 بچههای آسمان
+category   :剧情家庭儿童官方网站:
+runtime    :89 分钟
+year   :(1997)
+
+rank   :No.54
+score  :9.1
+title  :饮食男女 飲食男女
+category   :剧情家庭
+runtime    :124分钟
+year   :(1994)
+
+rank   :No.232
+score  :8.6
+title  :非常嫌疑犯 The Usual Suspects
+category   :剧情悬疑惊悚犯罪
+runtime    :106分钟
+year   :(1995)
+
+rank   :No.231
+score  :8.4
+title  :彗星来的那一夜 Coherence
+category   :科幻悬疑惊悚
+runtime    :89分钟
+year   :(2013)
+
+rank   :No.52
+score  :8.9
+title  :美丽心灵 A Beautiful Mind
+category   :剧情传记
+runtime    :135 分钟
+year   :(2001)
+
+rank   :No.230
+score  :8.4
+title  :英国病人 The English Patient
+category   :剧情爱情战争
+runtime    :162分钟
+year   :(1996)
+
+rank   :No.229
+score  :9.1
+title  :迁徙的鸟 Le peuple migrateur
+category   :纪录片
+runtime    :98分钟(法国)
+year   :(2001)
+
+rank   :No.228
+score  :8.6
+title  :荒野生存 Into the Wild
+category   :剧情传记冒险
+runtime    :148分钟
+year   :(2007)
+
+rank   :No.226
+score  :8.8
+title  :步履不停 歩いても 歩いても
+category   :剧情家庭
+runtime    :115分钟
+year   :(2008)
+
+rank   :No.125
+score  :8.7
+title  :电锯惊魂 Saw
+category   :悬疑惊悚恐怖
+runtime    :103分钟
+year   :(2004)
+
+rank   :No.227
+score  :8.3
+title  :疯狂的石头
+category   :喜剧犯罪
+runtime    :106 分钟(香港)
+year   :(2006)
+
+rank   :No.123
+score  :8.6
+title  :岁月神偷 歲月神偷
+category   :剧情家庭
+runtime    :117分钟
+year   :(2010)
+
+rank   :No.51
+score  :9.0
+title  :指环王2：双塔奇兵 The Lord of the Rings: The Two Towers
+category   :剧情动作奇幻冒险官方网站:
+runtime    :179分钟
+year   :(2002)
+
+rank   :No.122
+score  :9.2
+title  :七武士 七人の侍
+category   :剧情动作冒险
+runtime    :160分钟(国际版)
+year   :(1954)
+
+rank   :No.119
+score  :8.7
+title  :萤火虫之墓 火垂るの墓
+category   :剧情动画战争
+runtime    :89 分钟
+year   :(1988)
+
+rank   :No.120
+score  :8.7
+title  :借东西的小人阿莉埃蒂 借りぐらしのアリエッティ
+category   :动画奇幻冒险官方网站:
+runtime    :94分钟
+year   :(2010)
+
+rank   :No.121
+score  :8.5
+title  :神偷奶爸 Despicable Me
+category   :喜剧动画冒险官方网站:
+runtime    :95分钟
+year   :(2010)
+
+rank   :No.118
+score  :8.7
+title  :幸福终点站 The Terminal
+category   :剧情喜剧爱情
+runtime    :128 分钟
+year   :(2004)
+
+rank   :No.117
+score  :8.7
+title  :菊次郎的夏天 菊次郎の夏
+category   :剧情喜剧
+runtime    :121 分钟
+year   :(1999)
+
+rank   :No.116
+score  :8.7
+title  :驯龙高手 How to Train Your Dragon
+category   :喜剧动画家庭奇幻冒险官方网站:
+runtime    :98分钟
+year   :(2010)
+
+rank   :No.115
+score  :8.6
+title  :喜剧之王 喜劇之王
+category   :剧情喜剧爱情
+runtime    :85分钟
+year   :(1999)
+
+rank   :No.112
+score  :8.7
+title  :恐怖直播 더 테러 라이브
+category   :剧情悬疑犯罪
+runtime    :97分钟
+year   :(2013)
+
+rank   :No.113
+score  :8.9
+title  :红辣椒 パプリカ
+category   :科幻动画悬疑惊悚
+runtime    :90 分钟
+year   :(2006)
+
+rank   :No.110
+score  :8.8
+title  :超脱 Detachment
+category   :剧情官方网站:
+runtime    :97分钟
+year   :(2011)
+
+rank   :No.109
+score  :8.8
+title  :侧耳倾听 耳をすませば
+category   :剧情爱情动画
+runtime    :111分钟
+year   :(1995)
+
+rank   :No.108
+score  :8.8
+title  :爱在日落黄昏时 Before Sunset
+category   :剧情爱情
+runtime    :80 分钟
+year   :(2004)
+
+rank   :No.53
+score  :8.9
+title  :指环王1：魔戒再现 The Lord of the Rings: The Fellowship of the Ring
+category   :剧情动作奇幻冒险官方网站:
+runtime    :178分钟
+year   :(2001)
+
+rank   :No.111
+score  :8.6
+title  :倩女幽魂
+category   :剧情爱情武侠古装
+runtime    :98分钟(香港)
+year   :(1987)
+
+rank   :No.114
+score  :8.9
+title  :小森林 夏秋篇 リトル・フォレスト 夏・秋
+category   :剧情
+runtime    :111分钟
+year   :(2014)
+
+rank   :No.224
+score  :8.6
+title  :无敌破坏王 Wreck-It Ralph
+category   :喜剧动画奇幻冒险
+runtime    :101分钟
+year   :(2012)
+
+rank   :No.225
+score  :8.4
+title  :美国丽人 American Beauty
+category   :剧情爱情家庭官方网站:
+runtime    :122分钟
+year   :(1999)
+
+rank   :No.222
+score  :9.1
+title  :黄金三镖客 Il buono, il brutto, il cattivo.
+category   :西部冒险
+runtime    :161 分钟
+year   :(1966)
+
+rank   :No.223
+score  :8.4
+title  :发条橙 A Clockwork Orange
+category   :剧情科幻犯罪
+runtime    :136 分钟
+year   :(1971)
+
+rank   :No.219
+score  :8.3
+title  :初恋这件小事 สิ่งเล็กเล็กที่เรียกว่า...รัก
+category   :剧情喜剧爱情
+runtime    :118分钟(泰国)
+year   :(2010)
+
+rank   :No.220
+score  :8.5
+title  :E.T. 外星人 E.T.: The Extra-Terrestrial
+category   :剧情科幻
+runtime    :115分钟
+year   :(1982)
+
+rank   :No.218
+score  :8.4
+title  :变脸 Face/Off
+category   :动作科幻惊悚犯罪
+runtime    :138分钟
+year   :(1997)
+
+rank   :No.216
+score  :8.6
+title  :卡萨布兰卡 Casablanca
+category   :剧情爱情战争
+runtime    :102 分钟
+year   :(1942)
+
+rank   :No.217
+score  :8.4
+title  :无耻混蛋 Inglourious Basterds
+category   :剧情犯罪
+runtime    :153分钟
+year   :(2009)
+
+rank   :No.214
+score  :8.6
+title  :海盗电台 The Boat That Rocked
+category   :剧情喜剧音乐
+runtime    :116 分钟
+year   :(2009)
+
+rank   :No.213
+score  :8.5
+title  :这个男人来自地球 The Man from Earth
+category   :剧情科幻
+runtime    :87 分钟
+year   :(2007)
+
+rank   :No.215
+score  :9.2
+title  :城市之光 City Lights
+category   :剧情喜剧爱情
+runtime    :87 分钟
+year   :(1931)
+
+rank   :No.210
+score  :8.5
+title  :新龙门客栈 新龍門客棧
+category   :剧情动作武侠古装
+runtime    :88分钟
+year   :(1992)
+
+rank   :No.211
+score  :8.7
+title  :绿里奇迹 The Green Mile
+category   :剧情悬疑犯罪奇幻
+runtime    :189 分钟
+year   :(1999)
+
+rank   :No.209
+score  :8.3
+title  :秒速5厘米 秒速5センチメートル
+category   :剧情爱情动画官方网站:
+runtime    :63分钟
+year   :(2007)
+
+rank   :No.221
+score  :8.8
+title  :爱在午夜降临前 Before Midnight
+category   :剧情爱情官方网站:
+runtime    :109分钟
+year   :(2013)
+
+rank   :No.85
+score  :8.8
+title  :第六感 The Sixth Sense
+category   :剧情悬疑惊悚
+runtime    :107分钟
+year   :(1999)
+
+rank   :No.212
+score  :8.6
+title  :勇闯夺命岛 The Rock
+category   :动作冒险
+runtime    :136分钟
+year   :(1996)
+
+rank   :No.84
+score  :8.8
+title  :幽灵公主 もののけ姫
+category   :动画奇幻冒险
+runtime    :134分钟
+year   :(1997)
+
+rank   :No.83
+score  :8.8
+title  :阳光灿烂的日子
+category   :剧情
+runtime    :134分钟(中国大陆)
+year   :(1994)
+
+rank   :No.82
+score  :8.8
+title  :心灵捕手 Good Will Hunting
+category   :剧情
+runtime    :126 分钟
+year   :(1997)
+
+rank   :No.79
+score  :8.8
+title  :春光乍泄 春光乍洩
+category   :剧情爱情同性
+runtime    :96分钟
+year   :(1997)
+
+rank   :No.78
+score  :9.3
+title  :大闹天宫
+category   :动画奇幻
+runtime    :114分钟
+year   :(1961)
+
+rank   :No.81
+score  :8.9
+title  :玛丽和马克思 Mary and Max
+category   :剧情动画
+runtime    :92分钟
+year   :(2009)
+
+rank   :No.77
+score  :8.8
+title  :入殓师 おくりびと
+category   :剧情官方网站:
+runtime    :130 分钟
+year   :(2008)
+
+rank   :No.80
+score  :9.0
+title  :末代皇帝 The Last Emperor
+category   :剧情传记历史
+runtime    :163分钟
+year   :(1987)
+
+rank   :No.76
+score  :8.7
+title  :蝴蝶效应 The Butterfly Effect
+category   :剧情科幻悬疑惊悚
+runtime    :
+year   :(2004)
+
+rank   :No.173
+score  :8.7
+title  :罗生门 羅生門
+category   :剧情悬疑犯罪
+runtime    :88分钟
+year   :(1950)
+
+rank   :No.172
+score  :8.5
+title  :朗读者 The Reader
+category   :剧情爱情
+runtime    :124 分钟
+year   :(2008)
+
+rank   :No.169
+score  :8.7
+title  :浪潮 Die Welle
+category   :剧情惊悚
+runtime    :107 分钟
+year   :(2008)
+
+rank   :No.175
+score  :8.5
+title  :阿飞正传 阿飛正傳
+category   :剧情爱情犯罪
+runtime    :94分钟
+year   :(1990)
+
+rank   :No.171
+score  :8.6
+title  :爆裂鼓手 Whiplash
+category   :剧情音乐
+runtime    :107分钟
+year   :(2014)
+
+rank   :No.170
+score  :8.4
+title  :香水 Perfume: The Story of a Murderer
+category   :剧情犯罪奇幻
+runtime    :147分钟
+year   :(2006)
+
+rank   :No.167
+score  :8.6
+title  :人工智能 Artificial Intelligence: AI
+category   :剧情科幻冒险官方网站:
+runtime    :146分钟
+year   :(2001)
+
+rank   :No.174
+score  :8.8
+title  :未麻的部屋 Perfect Blue
+category   :动画惊悚奇幻
+runtime    :81 分钟
+year   :(1997)
+
+rank   :No.168
+score  :8.5
+title  :冰川时代 Ice Age
+category   :喜剧动画冒险
+runtime    :81 分钟
+year   :(2002)
+
+rank   :No.165
+score  :8.7
+title  :达拉斯买家俱乐部 Dallas Buyers Club
+category   :剧情同性传记
+runtime    :117分钟
+year   :(2013)
+
+rank   :No.166
+score  :8.8
+title  :我是山姆 I Am Sam
+category   :剧情家庭
+runtime    :132 分钟
+year   :(2001)
+
+rank   :No.164
+score  :8.7
+title  :二十二
+category   :纪录片
+runtime    :99分钟(公映版)
+year   :(2015)
+
+rank   :No.162
+score  :8.6
+title  :穿越时空的少女 時をかける少女
+category   :剧情爱情科幻动画官方网站:
+runtime    :98分钟
+year   :(2006)
+
+rank   :No.163
+score  :9.0
+title  :雨中曲 Singin' in the Rain
+category   :喜剧爱情歌舞
+runtime    :103 分钟
+year   :(1952)
+
+rank   :No.201
+score  :8.6
+title  :完美陌生人 Perfetti sconosciuti
+category   :剧情喜剧
+runtime    :97分钟
+year   :(2016)
+
+rank   :No.161
+score  :8.5
+title  :猜火车 Trainspotting
+category   :剧情犯罪
+runtime    :94分钟
+year   :(1996)
+
+rank   :No.159
+score  :8.6
+title  :时空恋旅人 About Time
+category   :剧情爱情奇幻官方网站:
+runtime    :123分钟
+year   :(2013)
+
+rank   :No.158
+score  :8.6
+title  :蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises
+category   :剧情动作科幻惊悚犯罪官方网站:
+runtime    :165分钟
+year   :(2012)
+
+rank   :No.156
+score  :8.4
+title  :唐伯虎点秋香 唐伯虎點秋香
+category   :喜剧爱情古装
+runtime    :102 分钟
+year   :(1993)
+
+rank   :No.202
+score  :9.2
+title  :东京物语 東京物語
+category   :剧情家庭
+runtime    :136 分钟
+year   :(1953)
+
+rank   :No.155
+score  :8.6
+title  :超能陆战队 Big Hero 6
+category   :喜剧动作科幻动画冒险官方网站:
+runtime    :102分钟
+year   :(2014)
+
+rank   :No.160
+score  :8.8
+title  :魂断蓝桥 Waterloo Bridge
+category   :剧情爱情战争
+runtime    :108 分钟
+year   :(1940)
+
+rank   :No.157
+score  :8.8
+title  :玩具总动员3 Toy Story 3
+category   :喜剧动画奇幻冒险官方网站:
+runtime    :103分钟
+year   :(2010)
+
+rank   :No.154
+score  :8.5
+title  :花样年华 花樣年華
+category   :剧情爱情
+runtime    :98 分钟
+year   :(2000)
+
+rank   :No.153
+score  :8.7
+title  :纵横四海 緃横四海
+category   :剧情喜剧动作犯罪
+runtime    :108分钟
+year   :(1991)
+
+rank   :No.200
+score  :8.9
+title  :哪吒闹海
+category   :动画奇幻冒险
+runtime    :65分钟
+year   :(1979)
+
+rank   :No.199
+score  :8.4
+title  :青蛇
+category   :剧情奇幻古装
+runtime    :99分钟
+year   :(1993)
+
+rank   :No.198
+score  :8.7
+title  :一个叫欧维的男人决定去死 En man som heter Ove
+category   :剧情
+runtime    :116分钟
+year   :(2015)
+
+rank   :No.151
+score  :8.8
+title  :请以你的名字呼唤我 Call Me by Your Name
+category   :剧情爱情同性官方网站:
+runtime    :132分钟
+year   :(2017)
+
+rank   :No.196
+score  :8.4
+title  :你的名字。 君の名は。
+category   :剧情爱情动画官方网站:
+runtime    :106分钟
+year   :(2016)
+
+rank   :No.192
+score  :9.0
+title  :忠犬八公物语 ハチ公物語
+category   :剧情
+runtime    :107 分钟
+year   :(1987)
+
+rank   :No.193
+score  :9.0
+title  :无人知晓 誰も知らない
+category   :剧情
+runtime    :141分钟
+year   :(2004)
+
+rank   :No.195
+score  :8.9
+title  :惊魂记 Psycho
+category   :悬疑惊悚恐怖
+runtime    :109分钟
+year   :(1960)
+
+rank   :No.191
+score  :8.6
+title  :谍影重重2 The Bourne Supremacy
+category   :动作悬疑惊悚官方网站:
+runtime    :108分钟
+year   :(2004)
+
+rank   :No.190
+score  :8.5
+title  :谍影重重 The Bourne Identity
+category   :动作悬疑惊悚官方网站:
+runtime    :119分钟
+year   :(2002)
+
+rank   :No.152
+score  :8.8
+title  :教父3 The Godfather: Part III
+category   :剧情犯罪
+runtime    :170分钟
+year   :(1990)
+
+rank   :No.194
+score  :8.6
+title  :模仿游戏 The Imitation Game
+category   :剧情同性传记战争
+runtime    :114分钟
+year   :(2014)
+
+rank   :No.197
+score  :8.5
+title  :再次出发之纽约遇见你 Begin Again
+category   :喜剧爱情音乐官方网站:
+runtime    :104分钟
+year   :(2013)
+
+rank   :No.189
+score  :8.5
+title  :魔女宅急便 魔女の宅急便
+category   :动画奇幻冒险
+runtime    :103分钟
+year   :(1989)
+
+rank   :No.185
+score  :8.8
+title  :地球上的星星 Taare Zameen Par
+category   :剧情家庭儿童官方网站:
+runtime    :165分钟
+year   :(2007)
+
+rank   :No.188
+score  :8.8
+title  :牯岭街少年杀人事件 牯嶺街少年殺人事件
+category   :剧情犯罪
+runtime    :237分钟(导演剪辑版)
+year   :(1991)
+
+rank   :No.186
+score  :8.8
+title  :房间 Room
+category   :剧情家庭
+runtime    :118分钟
+year   :(2015)
+
+rank   :No.183
+score  :8.6
+title  :战争之王 Lord of War
+category   :剧情犯罪
+runtime    :122 分钟
+year   :(2005)
+
+rank   :No.187
+score  :8.7
+title  :梦之安魂曲 Requiem for a Dream
+category   :剧情
+runtime    :102分钟
+year   :(2000)
+
+rank   :No.181
+score  :8.4
+title  :恐怖游轮 Triangle
+category   :剧情悬疑惊悚
+runtime    :99 分钟
+year   :(2009)
+
+rank   :No.182
+score  :8.6
+title  :撞车 Crash
+category   :剧情犯罪官方网站:
+runtime    :112分钟
+year   :(2004)
+
+rank   :No.177
+score  :8.9
+title  :追随 Following
+category   :悬疑惊悚犯罪
+runtime    :69分钟
+year   :(1998)
+
+rank   :No.178
+score  :8.7
+title  :可可西里
+category   :剧情犯罪
+runtime    :85分钟(中国大陆)
+year   :(2004)
+
+rank   :No.180
+score  :8.6
+title  :被解救的姜戈 Django Unchained
+category   :剧情动作西部冒险官方网站:
+runtime    :163分钟(中国大陆)
+year   :(2012)
+
+rank   :No.184
+score  :8.7
+title  :头脑特工队 Inside Out
+category   :喜剧动画冒险官方网站:
+runtime    :95分钟
+year   :(2015)
+
+rank   :No.179
+score  :8.6
+title  :血战钢锯岭 Hacksaw Ridge
+category   :剧情传记历史战争官方网站:
+runtime    :139分钟(中国大陆)
+year   :(2016)
+

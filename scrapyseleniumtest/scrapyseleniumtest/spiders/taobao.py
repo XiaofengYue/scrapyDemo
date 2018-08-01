@@ -34,4 +34,4 @@ class TaobaoSpider(scrapy.Spider):
         self.browser.close()
 
     def parse(self, response):
-        print(response.text)
+        print('cookies 登录成功')

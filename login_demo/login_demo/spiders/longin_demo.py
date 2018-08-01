@@ -62,28 +62,30 @@ class ExampleLoginSpider(scrapy.Spider):
         session.cookies.update(c)
         return session
 
-    # #账号密码模拟登录
-    # name = "login_"
-    # allowed_domains = ["www.pipicat.top"]
-    # start_urls = ['http://www.pipicat.top/account']
-    # login_url = 'http://www.pipicat.top/login'
 
-    # def parse(self, response):
-    #     print(response.text)
+class BlogLoginSpider(scrapy.Spider):
+    # 账号密码模拟登录
+    name = "loginblog"
+    allowed_domains = ["www.pipicat.top"]
+    start_urls = ['http://www.pipicat.top/account']
+    login_url = 'http://www.pipicat.top/login'
 
-    # def start_requests(self):
-    #     print('开始建立请求')
-    #     yield scrapy.Request(self.login_url, callback=self.login)
+    def parse(self, response):
+        print(response.text)
 
-    # def login(self, response):
-    #     print('login处理填表')
-    #     formdata = {
-    #         'email': '736659711@qq.com', 'password': 'wozhiai0'}
-    #     yield FormRequest.from_response(response, formdata=formdata,
-    #                                     callback=self.parse_login)
+    def start_requests(self):
+        print('开始建立请求')
+        yield scrapy.Request(self.login_url, callback=self.login)
 
-    # def parse_login(self, response):
-    #     # print('>>>>>>>>'+response.text)
-    #     if 'Account' in response.text:
-    #         print('登录成功')
-    #         yield from super().start_requests()
+    def login(self, response):
+        print('login处理填表')
+        formdata = {
+            'email': '736659711@qq.com', 'password': 'wozhiai0'}
+        yield FormRequest.from_response(response, formdata=formdata,
+                                        callback=self.parse_login)
+
+    def parse_login(self, response):
+        # print('>>>>>>>>'+response.text)
+        if 'Account' in response.text:
+            print('登录成功')
+            yield from super().start_requests()

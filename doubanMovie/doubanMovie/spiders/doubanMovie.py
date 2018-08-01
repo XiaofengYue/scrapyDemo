@@ -1,6 +1,8 @@
 import scrapy
 from scrapy import FormRequest
+from urllib import request
 from doubanMovie.items import doubanMovieItem
+from PIL import Image
 
 
 class doubanSpider(scrapy.Spider):
@@ -29,7 +31,6 @@ class doubanSpider(scrapy.Spider):
             'email': email_str,
             'password': password_str
         }
-        print('有没有验证码呢 %s ' % response.text)
         yield FormRequest.from_response(response, formdata=formdata, callback=self.after)
 
     def after(self, response):
@@ -64,3 +65,54 @@ class doubanSpider(scrapy.Spider):
         item['category'] = category
         item['runtime'] = runtime
         yield item
+
+
+class doubanCookie(scrapy.Spider):
+    name = "doubanlogin"
+
+    start_urls = ['https://www.douban.com/login']
+
+    def start_requests(self):
+        yield scrapy.FormRequest(url=self.start_urls[0], meta={"cookiejar": 1}, callback=self.parse)
+
+    def parse(self, response):
+        captcha_id = response.xpath('//input[@name="captcha-id"]/@value').extract_first()
+        cap_link = response.xpath('//img[@id="captcha_image"]/@src').extract_first()
+        print('验证码链接咯' + cap_link)
+        if cap_link is None:
+            email_str = input('请输入你的账号')
+            password_str = input('请输入你的密码')
+            formdata = {
+                'form_email': email_str,
+                'form_password': password_str
+            }
+            yield FormRequest.from_response(response, meta={"cookiejar": response.meta["cookiejar"]}, formdata=formdata, callback=self.after)
+        else:
+            request.urlretrieve(cap_link, '11.jpg')
+            email_str = input('请输入你的账号')
+            password_str = input('请输入你的密码')
+            try:
+                im = Image.open('11.jpg')
+                im.show()
+            except:
+                pass
+            cap_str = input('请输入验证码')
+            formdata = {
+                "form_email": email_str,
+                "form_password": password_str,
+                "captcha-solution": cap_str,
+                "captcha-id": captcha_id,
+            }
+            print("正在登录")
+            yield scrapy.FormRequest.from_response(response, meta={"cookiejar": response.meta["cookiejar"]}, formdata=formdata, callback=self.after)
+
+    def after(self, response):
+        account = response.xpath('//a[@class="bn-more"]/span/text()').extract_first()
+        if account is None:
+            print('登录失败')
+        else:
+            print('登录成功')
+        yield scrapy.Request(url='https://www.douban.com/people/121600284/', meta={"cookiejar": response.meta["cookiejar"]}, callback=self.person)
+
+    def person(self, response):
+        print(response.text)
