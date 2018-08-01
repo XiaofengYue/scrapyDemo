@@ -5,14 +5,16 @@
   >按照我个人的学习之路排序
 
 
-## tutorial（初步训练和自己写了个新手demo）
-* 了解Scrapy 最好的方法便是看官方手册（强烈推荐，介绍的很全面）
+## **tutorial**（初步训练和自己写了个新手demo）
+---
+#### 了解Scrapy 最好的方法便是看官方手册（强烈推荐，介绍的很全面）
 > https://docs.scrapy.org/en/latest/
 
-* 开启项目(了解文件夹的框架)
+#### 开启项目(了解文件夹的框架)
 > scrapy startproject tutorial
 
 #### 了解蜘蛛的初步写法 (按着手册敲样例)
+>
 ```
 第一种
 # 程序自动请求start_urls列表的网页，并且自动交由parse函数下一步操作
@@ -41,6 +43,7 @@ Class quoteSpider(scrapy.Spider):
   def parse_url(self, response):
       pass
 ```
+>
 #### Pipelines的用处和(初步使用及设置)
 
 ##### settings中设置Pipelines
