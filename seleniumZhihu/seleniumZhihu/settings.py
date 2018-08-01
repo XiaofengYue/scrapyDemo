@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for scrapyseleniumtest project
+# Scrapy settings for seleniumZhihu project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +9,18 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'scrapyseleniumtest'
+BOT_NAME = 'seleniumZhihu'
 
-SPIDER_MODULES = ['scrapyseleniumtest.spiders']
-NEWSPIDER_MODULE = 'scrapyseleniumtest.spiders'
+SPIDER_MODULES = ['seleniumZhihu.spiders']
+NEWSPIDER_MODULE = 'seleniumZhihu.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'scrapyseleniumtest (+http://www.yourdomain.com)'
+#USER_AGENT = 'seleniumZhihu (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
+
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
@@ -47,13 +48,13 @@ DEFAULT_REQUEST_HEADERS = {
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
-#    'scrapyseleniumtest.middlewares.ScrapyseleniumtestSpiderMiddleware': 543,
+#    'seleniumZhihu.middlewares.SeleniumzhihuSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'scrapyseleniumtest.middlewares.ScrapyseleniumtestDownloaderMiddleware': 543,
+#    'seleniumZhihu.middlewares.SeleniumzhihuDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,8 +66,8 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 # ITEM_PIPELINES = {
-
-# }
+#    'seleniumZhihu.pipelines.SeleniumzhihuPipeline': 300,
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

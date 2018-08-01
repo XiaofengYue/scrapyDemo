@@ -112,4 +112,14 @@ def qzone():
     browser.close()
 
 
-qzone()
+def zhihuLog():
+    browser.get('https://www.zhihu.com/signin')
+    browser.find_element_by_xpath('/html/body/div[1]/div/main/div/div/div/div[2]/div[1]/form/div[1]/div[2]/div[1]/input').clear()
+    browser.find_element_by_xpath('/html/body/div[1]/div/main/div/div/div/div[2]/div[1]/form/div[1]/div[2]/div[1]/input').send_keys('15681953321')
+    browser.find_element_by_xpath('/html/body/div[1]/div/main/div/div/div/div[2]/div[1]/form/div[2]/div/div[1]/input').clear()
+    browser.find_element_by_xpath('/html/body/div[1]/div/main/div/div/div/div[2]/div[1]/form/div[2]/div/div[1]/input').send_keys('wozhiai0')
+    browser.find_element_by_xpath('/html/body/div[1]/div/main/div/div/div/div[2]/div[1]/form/button').click()
+    time.sleep(2)
+
+
+zhihuLog()

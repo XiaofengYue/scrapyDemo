@@ -2,6 +2,7 @@
 import scrapy
 import time
 from selenium import webdriver
+from scrapy import FormRequest
 
 
 class TaobaoSpider(scrapy.Spider):
@@ -20,10 +21,12 @@ class TaobaoSpider(scrapy.Spider):
         self.browser.get('http://www.pipicat.top/login')
         email = self.browser.find_element_by_xpath('//*[@id="email"]')
         email.clear()
-        email.send_keys('736659711@qq.com')
+        email_str = input('请输入你的账号')
+        email.send_keys(email_str)
         psw = self.browser.find_element_by_xpath('//*[@id="password"]')
         psw.clear()
-        psw.send_keys('wozhiai0')
+        psw_str = input('请输入你的密码')
+        psw.send_keys(psw_str)
         btn = self.browser.find_element_by_xpath('//*[@id="submit"]')
         btn.click()
         time.sleep(2)
