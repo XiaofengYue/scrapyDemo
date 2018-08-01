@@ -7,13 +7,13 @@
 
 ## **tutorial**（初步训练和自己写了个新手demo）
 ---
-#### 了解Scrapy 最好的方法便是看官方手册（强烈推荐，介绍的很全面）
+#### **了解Scrapy 最好的方法便是看官方手册（强烈推荐，介绍的很全面）**
 > https://docs.scrapy.org/en/latest/
 
-#### 开启项目(了解文件夹的框架)
+#### **开启项目(了解文件夹的框架)**
 > scrapy startproject tutorial
 
-#### 了解蜘蛛的初步写法 (按着手册敲样例)
+#### **了解蜘蛛的初步写法 (按着手册敲样例)**
 >
 ```
 第一种
@@ -44,7 +44,7 @@ Class quoteSpider(scrapy.Spider):
       pass
 ```
 >
-#### Pipelines的用处和(初步使用及设置)
+#### **Pipelines的用处和(初步使用及设置)**
 
 ##### settings中设置Pipelines
 * 解析时的yield item，会自动在pipelines.py中加工(比如存入数据库),我这里便是学习的存入mysql
@@ -74,7 +74,7 @@ def close_spider(self, spider):
 ##### 一个item可以有多个管道处理
 * settings中再加一个管道就好了
 
-##### tutorial中的saikr便是爬取赛氪网存入数据库以及写入文本的demo
+#### **tutorial中的saikr便是爬取赛氪网存入数据库以及写入文本的demo**
 
 
 
