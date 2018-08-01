@@ -18,13 +18,11 @@ class ExampleLoginSpider(scrapy.Spider):
 
     def __init__(self):
         self.browser = webdriver.Chrome()
-        self.realCookie = {}
 
     start_urls = ['https://user.qzone.qq.com/']
 
     def start_requests(self):
         self.login()
-        print('g_tk:' + self.g_tk + 'realCookie:' + self.realCookie + 'session' + self.session.cookies)
 
     def parse(self, response):
         pass
@@ -35,32 +33,13 @@ class ExampleLoginSpider(scrapy.Spider):
         self.browser.switch_to_frame('login_frame')
         self.browser.find_element_by_id('switcher_plogin').click()
         self.browser.find_element_by_id('u').clear()
-        self.browser.find_element_by_id('u').send_keys('736659711')
-        self.browser.find_element_by_id('p').send_keys('yxfxjj1997')
+        qq = input('请输入你的qq号码')
+        self.browser.find_element_by_id('u').send_keys(qq)
+        psw = input('请输入你的密码')
+        self.browser.find_element_by_id('p').send_keys(psw)
         self.browser.find_element_by_id('login_button').click()
-        self.cookies = self.browser.get_cookies()
-        html = self.browser.page_source
-        xpat = r'window\.g_qzonetoken = \(function\(\)\{ try{return \"(.*)";'
-        self.qzonetoken = re.compile(xpat).findall(html)[0]
-        for elem in self.cookies:
-            self.realCookie[elem['name']] = elem['value']
-        self.g_tk = self.get_g_tk(self.realCookie)
-        self.session = self.back_session(self.realCookie)
         time.sleep(5)
         self.browser.close()
-
-    def get_g_tk(cookie):
-        hashes = 5381
-        for letter in cookie['p_skey']:
-            hashes += (hashes << 5) + ord(letter)  # ord()是用来返回字符的ascii码
-        return hashes & 0x7fffffff
-
-    def back_session(realCookie):
-        session = requests.session()
-        c = requests.utils.cookiejar_from_dict(realCookie, cookiejar=None, overwrite=True)
-        session.headers = headers
-        session.cookies.update(c)
-        return session
 
 
 class BlogLoginSpider(scrapy.Spider):
